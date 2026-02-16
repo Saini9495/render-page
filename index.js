@@ -11,4 +11,4 @@ app.get("/home",(req,res)=>{
 })
 
 console.log("running.....")
-app.listen(6000)
+app.listen(9000)
